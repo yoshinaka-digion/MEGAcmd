@@ -1,3 +1,4 @@
 [submodule "sdk"]
 	path = sdk
-	url = https://github.com/meganz/sdk.git
+	url = https://github.com/yoshinaka-digion/sdk.git
+	branch = v3.12.2a_yoshinaka
